@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+venv/
+login.txt
+*.log
+.pytest_cache
+.coverage
+testcase/*.png
+.idea
+.DS_Store
+.vscode
